@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\ToImport\\ToImport.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\ToImport\\ToImport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\ToImport\\ToImport.csproj",
+        "projectName": "ToImport",
+        "projectPath": "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\ToImport\\ToImport.csproj",
+        "packagesPath": "C:\\Users\\Valentin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\ToImport\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Valentin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj": {
+                "projectPath": "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Valentin\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj",
+        "projectName": "INET.Lab4",
+        "projectPath": "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\TSP.L2\\INET.Lab4.csproj",
+        "packagesPath": "C:\\Users\\Valentin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Valentin\\Desktop\\INET.LAB4\\TSP.L2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Valentin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Valentin\\.dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
